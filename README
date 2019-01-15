@@ -1,0 +1,9 @@
+## Aplicaciones del CLima - Curso Node 
+
+recordar ejecutar ```npm istall``` para las librerias
+
+### Ejemplo:
+```node app -d mexico```
+
+App creado en el curso de nodes de cero a experto.
+===
